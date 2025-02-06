@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kigrath&label=Profile%20views&color=0e75b6&style=flat" alt="kigrath" /> </p>
 
-- 🌱 I’m currently learning **Svelte, Tailwind, Java, Python**
+- 🌱 I’m currently learning **Svelte, Tailwind, Java, Python, Spring Boot**
 
 - 👨‍💻 All of my projects are available at [kigrath.dev](kigrath.dev)
 
